@@ -1,0 +1,103 @@
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\appsettings.json
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.exe
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.deps.json
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.runtimeconfig.json
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.runtimeconfig.dev.json
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.dll
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\ref\GestionUsarios.dll
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.pdb
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.Views.dll
+C:\Proyectos .Net\2141449-AB\GestionUsarios\bin\Debug\net5.0\GestionUsarios.Views.pdb
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.AssemblyReference.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.AssemblyInfoInputs.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.AssemblyInfo.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.CoreCompileInputs.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorAssemblyInfo.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorAssemblyInfo.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\staticwebassets\GestionUsarios.StaticWebAssets.Manifest.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\staticwebassets\GestionUsarios.StaticWebAssets.xml
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\scopedcss\bundle\GestionUsarios.styles.css
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.TagHelpers.input.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.TagHelpers.output.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorCoreGenerate.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorTargetAssemblyInfo.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorTargetAssemblyInfo.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.Views.pdb
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.dll
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\ref\GestionUsarios.dll
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.pdb
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.genruntimeconfig.cache
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.CopyComplete
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\User\Calculadora.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Index.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areasuperior.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areatrabajo.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\menuvertical.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\piepagina.cshtml.g.cs
+C:\Proyectos .Net\2141449-AB\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\_Layoutprivate.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\appsettings.json
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.exe
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.deps.json
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.runtimeconfig.json
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.runtimeconfig.dev.json
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.dll
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\ref\GestionUsarios.dll
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.pdb
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.Views.dll
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\bin\Debug\net5.0\GestionUsarios.Views.pdb
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.AssemblyReference.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.AssemblyInfoInputs.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.AssemblyInfo.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorAssemblyInfo.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorAssemblyInfo.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\staticwebassets\GestionUsarios.StaticWebAssets.Manifest.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\staticwebassets\GestionUsarios.StaticWebAssets.xml
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\scopedcss\bundle\GestionUsarios.styles.css
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.TagHelpers.input.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.TagHelpers.output.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorCoreGenerate.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areasuperior.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\menuvertical.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\piepagina.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\User\Calculadora.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorTargetAssemblyInfo.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.RazorTargetAssemblyInfo.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.Views.pdb
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.dll
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\ref\GestionUsarios.dll
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.pdb
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.genruntimeconfig.cache
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\GestionUsarios.csproj.CopyComplete
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Register.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Forgot.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Profesor.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Alumno.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areatrabajoalumno.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areatrabajoprofesor.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\App\Coordinador.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\areatrabajocoordinador.cshtml.g.cs
+C:\Users\Sebastián Benítez\Documents\Proyectos .Net\GestionUsarios\obj\Debug\net5.0\Razor\Views\Shared\Template\Layoutprivate.cshtml.g.cs
